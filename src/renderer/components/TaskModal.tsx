@@ -344,7 +344,7 @@ const TaskModal: React.FC<TaskModalProps> = ({
                   Creating...
                 </>
               ) : (
-                'Create'
+                'New Task'
               )}
             </Button>
           </DialogFooter>
